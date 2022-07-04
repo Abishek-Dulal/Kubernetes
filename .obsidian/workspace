@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "b45b541ea0c2b4f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "56cbc073223bee94",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Exploring Kubernetes Archietecture.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48f2fc8a53c57958",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c4bcbc3756edef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ec336eecb76fb35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fd88eada4f5ee04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fc83f2833059f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "052ea595a9e2ff5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "787ff3b67c34c64a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Exploring Kubernetes Archietecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "56cbc073223bee94",
+  "lastOpenFiles": [
+    "Exploring Kubernetes Archietecture.md",
+    "kubernates_network.jpeg",
+    "kubernetes basic operation.md",
+    "Kubernetes Archietecture.md",
+    "Kubernetes Intro.md",
+    "kubernetes Api and Api Server.md",
+    "Kubernetes Api Objects.md",
+    "Man.md",
+    "Node_addition_to_cluster.jpg",
+    "control_plane_components.jpg"
+  ]
+}
