@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "56cbc073223bee94",
+        "id": "606298ca70b2f774",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Exploring Kubernetes Archietecture.md",
-            "mode": "source",
-            "source": false
+            "file": "Kubernetes_corrected_notes/kubernetes metadata/cheatsheet/basic_operation.jpg"
           }
         }
       }
@@ -53,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 540.5
   },
   "right": {
     "id": "3fc83f2833059f52",
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploring Kubernetes Archietecture.md",
+                "file": "Kubernetes_corrected_notes/kubernetes metadata/cheatsheet/basic_operation.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +85,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "56cbc073223bee94",
+  "active": "2ec336eecb76fb35",
   "lastOpenFiles": [
+    "Kubernetes_corrected_notes/kubernetes metadata/kubernetes basic operation.md",
+    "Kubernetes_corrected_notes/kubernetes metadata/cheatsheet/create_namespace.jpeg",
+    "Kubernetes_corrected_notes/kubernetes metadata/cheatsheet/basic_operation.jpg",
+    "Kubernetes Archietecture.md",
+    "Kubernetes Api Objects.md",
+    "bootstrapping_cluster.jpg",
+    "control_plane_components.jpg",
     "Exploring Kubernetes Archietecture.md",
     "kubernates_network.jpeg",
-    "kubernetes basic operation.md",
-    "Kubernetes Archietecture.md",
-    "Kubernetes Intro.md",
-    "kubernetes Api and Api Server.md",
-    "Kubernetes Api Objects.md",
-    "Man.md",
-    "Node_addition_to_cluster.jpg",
-    "control_plane_components.jpg"
+    "Kubernetes Intro.md"
   ]
 }

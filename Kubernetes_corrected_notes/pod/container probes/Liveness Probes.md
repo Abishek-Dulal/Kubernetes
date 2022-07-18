@@ -1,0 +1,2 @@
+# Liveness Probes
+Liveness Probes does a  routine diagnostic check on a container . It is per container setting probe meaning all the container can have independent defination for them. When the liveness check fails kubernetes restarts the container based on the provided container restart policy . 
