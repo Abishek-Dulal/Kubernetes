@@ -7,9 +7,11 @@
         "id": "606298ca70b2f774",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Kubernetes_corrected_notes/kubernetes metadata/cheatsheet/basic_operation.jpg"
+            "file": "Kubernetes_corrected_notes/Controllers/Deployment Process.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes_corrected_notes/kubernetes metadata/cheatsheet/basic_operation.jpg",
+                "file": "Kubernetes_corrected_notes/Controllers/Deployment Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +89,15 @@
   },
   "active": "2ec336eecb76fb35",
   "lastOpenFiles": [
+    "Kubernetes_corrected_notes/Controllers/Controller types.md",
+    "Kubernetes_corrected_notes/pod/cheatsheet/interacting_with pods.jpg",
     "Kubernetes_corrected_notes/kubernetes metadata/kubernetes basic operation.md",
     "Kubernetes_corrected_notes/kubernetes metadata/cheatsheet/create_namespace.jpeg",
+    "Kubernetes_corrected_notes/kubernetes metadata/cheatsheet/labels_operation.jpg",
+    "Kubernetes_corrected_notes/kubernetes metadata/cheatsheet/namespace_methods.jpg",
     "Kubernetes_corrected_notes/kubernetes metadata/cheatsheet/basic_operation.jpg",
-    "Kubernetes Archietecture.md",
-    "Kubernetes Api Objects.md",
-    "bootstrapping_cluster.jpg",
-    "control_plane_components.jpg",
-    "Exploring Kubernetes Archietecture.md",
-    "kubernates_network.jpeg",
-    "Kubernetes Intro.md"
+    "Kubernetes_corrected_notes/kubernetes metadata/cheatsheet/annotation.jpg",
+    "Kubernetes_corrected_notes/kubernetes api/api.md",
+    "Kubernetes_corrected_notes/kubernetes api/images/response_code_from_api.jpg"
   ]
 }
